@@ -6,6 +6,10 @@ A Codex skill for making vertical story shorts with ink-outlined 2D characters i
 
 *Frame from the bundled BridgeShort composition.*
 
+## Upstream
+
+This skill adapts the original `cartoon-3d-short` workflow by Mr omi for Codex. The procedural BridgeShort scene, script example, and audio templates come from the upstream project. [Claude Animated Shorts by Mr omi](https://github.com/mromidev/claude-animated-shorts)
+
 ## Install
 
 Clone the repo into your Codex skills directory. If an earlier copy is already installed, update that copy or back up any local edits before replacing it.
