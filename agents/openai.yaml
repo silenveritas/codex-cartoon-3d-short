@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Cartoon 3D Short"
+  short_description: "Make vertical cartoon shorts in a painted 3D world"
+  default_prompt: "Use $codex-cartoon-3d-short to animate a vertical short from my story."
