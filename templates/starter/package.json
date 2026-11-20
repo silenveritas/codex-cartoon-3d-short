@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "postprocessing": "6.39.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.534",
+    "three": "0.179.1"
+  }
+}
